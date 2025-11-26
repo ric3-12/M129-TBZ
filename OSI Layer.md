@@ -1,5 +1,4 @@
-[[ION]]
----
+
 
 # Schicht 1 **Physical Layer**
 
