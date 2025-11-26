@@ -1,4 +1,3 @@
-[[ION]]
 # TCP/IP-Modell
 
 Das **TCP/IP-Modell** ist ein praktisches Netzwerkmodell, das in der echten Welt verwendet wird – z. B. im Internet. Es besteht aus **4 Schichten**, die ähnliche Aufgaben wie das OSI-Modell übernehmen.
