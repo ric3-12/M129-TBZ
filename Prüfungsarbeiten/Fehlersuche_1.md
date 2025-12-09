@@ -1,5 +1,4 @@
 # Dokumentation – Analyse und Korrektur der Routingfehler (Cisco)
-*(Ich-Perspektive)*
 
 ## 1. Einleitung
 
