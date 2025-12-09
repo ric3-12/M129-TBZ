@@ -96,4 +96,3 @@ Diese Aufgabe hat mir gezeigt, wie wichtig korrekte Präfixlängen und Next-Hop-
 - ein Next Hop muss immer eine gültige Router-IP sein  
 - statische Routen müssen bei Fehlern gelöscht und neu hinzugefügt werden  
 
-Diese Erkenntnisse helfen mir, Routingfehler schneller zu erkennen und sicher zu beheben.
