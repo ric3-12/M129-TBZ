@@ -128,14 +128,4 @@ Wichtige Standards:
 | 📡     | WLAN Access Point |
 | 🗄️    | Server            |
 
-Diese Symbole erleichtern das Skizzieren von Netzwerkdiagrammen für Projekte oder Prüfungen.
-
----
-
-Wenn du möchtest, erstelle ich dir jetzt:
-
-* **Merkblatt 2 (Subnetting & Adressschema)**
-* **Merkblatt 3 (Router/Switch Konfiguration + Beispiele)**
-* **Zusätzliche Grafiken oder Tabellen**
-
-Sag mir einfach: *"Bitte Merkblatt 2"* oder *"Alle weiteren bitte erstellen"*!
+Diese Symbole erleichtern das Skizzieren von Netzwerkdiagrammen für Projekte oder 
