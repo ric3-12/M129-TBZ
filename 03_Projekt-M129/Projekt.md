@@ -2,9 +2,9 @@
 
 In Diesem Modul werde ich als Projekt ein kleines Netzwerk Bauen:
 
-![Cisco File](Pictures/Screenshot 2024-01-29 195531.png)
+![Cisco File](/99_Media/Netzwerk.png)
 
-Zuerst habe ich mit der Grobplannung angefangen das habe ich auf Draw.io gemacht:
+Zuerst habe ich mit der Grobplannung angefangen welche ich auf Draw.io gemacht habe:
 
 ![Draw Io](/99_Media/Draw.io.png)
 
@@ -12,10 +12,9 @@ Danach habe ich die Grobplannung von Draw.io in Cisco umgesetzt:
 
 ---
 
-
 Danach habe ich die IP Adressen zuteilung und die Routingtabellen erstellt und habe die in Cisco umgesetzt:
 
-[Routing Tabellen](https://gitlab.com/leonur-/projekt_modul_129/-/blob/main/Routing%20Tabellen.md?ref_type=heads)
+[Routing Tabellen](https://github.com/ric3-12/M129-TBZ/blob/main/03_Projekt-M129/Routing%20Tabellen.md)
 
 
 Danach habe ich alles Konfiguriert und mit dem Ping command getestet. Alle Gateways eingetragen und das und auf dem Cisco File noch alles Aufgeschrieben.
