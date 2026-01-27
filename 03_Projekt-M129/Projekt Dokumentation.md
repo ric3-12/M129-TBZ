@@ -1,4 +1,4 @@
-1. Ausgangslage / Umfeld
+## 1. Ausgangslage / Umfeld
 
 Das dargestellte Netzwerk gehört zu einem KMU (kleines bis mittleres Unternehmen) mit mehreren Abteilungen.
 Das Unternehmen arbeitet standortübergreifend innerhalb eines Gebäudekomplexes bzw. Campus und benötigt:
@@ -13,7 +13,7 @@ klare Struktur für Administration und Fehlersuche
 
 Das Netzwerk wurde mit Cisco Routern (2811) und Cisco Switches (2960) umgesetzt.
 
-2. Ziel des Netzwerks
+## 2. Ziel des Netzwerks
 
 Ziel der Netzwerkarchitektur ist es:
 
@@ -25,7 +25,7 @@ unterschiedlich große Netze effizient zu adressieren
 
 ein realistisches KMU-Szenario abzubilden
 
-3. Warum mehrere Subnetze?
+## 3. Warum mehrere Subnetze?
 
 Nicht jede Abteilung benötigt gleich viele Endgeräte.
 Deshalb wurden unterschiedlich große Subnetze verwendet:
@@ -39,7 +39,7 @@ Deshalb wurden unterschiedlich große Subnetze verwendet:
 Vorteil:
 Effiziente Nutzung von IP-Adressen und klare Struktur.
 
-4. Rollen der Netzwerkgeräte
+## 4. Rollen der Netzwerkgeräte
 4.1 Switches (Cisco 2960)
 
 Access-Switches für Endgeräte (PCs)
@@ -56,7 +56,7 @@ Jeder Router stellt das Default Gateway für seine Abteilung bereit
 
 Verbindung zwischen den einzelnen Netzwerksegmenten
 
-5. Routing-Konzept
+## 5. Routing-Konzept
 
 Es wird statisches Routing eingesetzt.
 
