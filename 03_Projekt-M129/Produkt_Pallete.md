@@ -14,6 +14,6 @@
 **Preis:** circa. 4000.-
 
 #### Switch
-![Screenshot](/99_Media/Cisco_400.jpg)
+![Screenshot](/99_Media/cisco_400.jpg)
 
 **Preis:** circa. 400.-
