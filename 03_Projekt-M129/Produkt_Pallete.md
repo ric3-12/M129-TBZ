@@ -8,12 +8,12 @@
 ---
 ### Bilder zu den Produkten
 
-#### Router
+#### Switch
 ![Screenshot](/99_Media/Cisco_9200_jpg.jpeg)
 
 **Preis:** circa. 4000.-
 
-#### Switch
+#### Router
 ![Screenshot](/99_Media/cisco_400.jpg)
 
 **Preis:** circa. 400.-
