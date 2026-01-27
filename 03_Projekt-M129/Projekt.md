@@ -1,6 +1,6 @@
 # Projekt_Modul_129
 
-Ebenfalls ist noch eine kleine ![Dokumentation](https://github.com/ric3-12/M129-TBZ/edit/main/03_Projekt-M129/Projekt%20Dokumentation.md) vorhanden.
+Ebenfalls ist noch eine kleine ![Dokumentation](https://github.com/ric3-12/M129-TBZ/blob/main/03_Projekt-M129/Projekt%20Dokumentation.md) vorhanden.
 
 In Diesem Modul werde ich als Projekt ein kleines Netzwerk Bauen:
 
