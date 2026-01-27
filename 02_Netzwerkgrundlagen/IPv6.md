@@ -33,12 +33,11 @@ IPv6-Adressen bestehen aus acht Blöcken mit je vier hexadezimalen Zeichen, getr
 
 Beispiel:
 
-2001:0db8:0000:0000:0000:0000:0000:0001
-
+`2001:0db8:0000:0000:0000:0000:0000:0001`
 
 Vereinfachte Schreibweise:
 
-2001:db8::1
+`2001:db8::1`
 
 **4.3 IPv6-Adress-Typen**
 Typ	Beschreibung
